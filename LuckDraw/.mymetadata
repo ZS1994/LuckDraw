@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LuckDraw"
+  id="myeclipse.1483607668158"
+  context-root="/LuckDraw"
+  j2ee-spec="5.0"
+  archive="LuckDraw.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
